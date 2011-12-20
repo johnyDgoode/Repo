@@ -13,6 +13,12 @@
 @property (nonatomic,retain) UIWindow *window;
 @property (nonatomic,retain) UIWindow *window2;
 @property (nonatomic,retain) UIWindow *window2;
+@property (nonatomic,retain) UIWindow *window2;
+@property (nonatomic,retain) UIWindow *window2;
+@property (nonatomic,retain) UIWindow *window2;
+@property (nonatomic,retain) UIWindow *window2;
+@property (nonatomic,retain) UIWindow *window2;
+@property (nonatomic,retain) UIWindow *window2;
 
 
 
