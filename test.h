@@ -11,5 +11,7 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (nonatomic,retain) UIWindow *window;
+@property (nonatomic,retain) UIWindow *window2;
+
 
 @end
