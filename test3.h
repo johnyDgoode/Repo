@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
-
+NSlog(@"ばかばかばか");
 @property (nonatomic,retain) UIWindow *window;
 @property (nonatomic,retain) UIWindow *window2;
 @property (nonatomic,retain) UIWindow *window2;
